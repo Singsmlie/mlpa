@@ -4,3 +4,5 @@
 def init()
 	pass
 	
+def viewWillAppear()
+ 	pass
